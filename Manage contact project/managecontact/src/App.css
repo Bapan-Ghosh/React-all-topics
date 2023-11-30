@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+ 
+*{
+  margin: 0px;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.header{
+  font-weight: 500;
+  font-size: large;
+  border: 2px solid;
+  background-color: #8E0625;
+  color: white;
+  text-align: center;
+}
+
+.formHeader{
+  margin-left: 12px;
+}
+
+.add-contact{
+  font-size: initial;
+  font-weight: 500;
+  font-family: fantasy;
+  margin-left: 12px;
+}
+
+.btn{
+  border-color: cadetblue;
+  color: #8E0625;
+}
+
+.contactList{
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
